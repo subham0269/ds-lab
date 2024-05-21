@@ -1,0 +1,5 @@
+file = open("./lines.txt", encoding='utf-8').readline()
+print(file)   
+# for line in range(10):
+#    if line:
+#       print(line.strip())
